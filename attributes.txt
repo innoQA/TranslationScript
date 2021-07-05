@@ -1,0 +1,16 @@
+title
+subheading
+caption
+placeholder
+validationmessage
+loadingdatamsg
+nodatamessage
+errormessage
+deletemessage
+updatemessage
+centerlabel
+insertmessage
+template-name
+fileuploadmessage
+hint
+confirmdelete
